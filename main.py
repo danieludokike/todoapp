@@ -1,6 +1,6 @@
 from database import *
 
-
+# create table function called
 create_table() # call the create table, to ensure our table get created
 
 def display_tasks(tasks):
